@@ -1,6 +1,6 @@
 <h1 align="center">AWS Portfolio Assignemnt</h1>
 <p align="center">
-Kalyan Chary Vadla [2233068], <br>
+Karthik Painam [2236721], <br>
 University Canada West, <br>
 BUSI 653, <br>
 Section 06, <br>
