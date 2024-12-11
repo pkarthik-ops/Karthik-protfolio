@@ -48,7 +48,7 @@ ___
 - Documentation covering all architectural decisions, security measures, and monitoring strategies.
 
 ___
-# [AWS-Project 2]()
+# [AWS-Project 2](https://pkarthik-ops.github.io/AWS-Project-2/)
 # Project Description: Data Protection, Governance, and Monitoring
 * This project involves setting up a comprehensive data analytics platform using AWS services to manage the City of Vancouver’s animal control data. 
 ## Project Title: AWS Data Analytic Platform for the City of Vancouver - Part 2
