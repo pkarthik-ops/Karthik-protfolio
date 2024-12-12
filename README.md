@@ -11,28 +11,22 @@ Due Date: 13th December 2024 <br>
 ___
 # [AWS-1 Project 1](https://pkarthik-ops.github.io/AWS-Project-1/)
 # Project Description: Implementation and Analysis of Animal Control Data
-* This project involves setting up a comprehensive data analytics platform using AWS services to manage the City of Vancouver’s animal control data. 
+* This project involves setting up a comprehensive data analytics platform using AWS services to the rate of animals found Matched in the year 2023 and add an Average for count of Matched animals feature additionally to support your analysis. 
 ## Project Title: AWS Data Analytic Platform for the City of Vancouver - Part 1
-* This project goal was to streamline data sourcing, storage, cleaning, transformation, and analysis, all while maintaining high standards of data security and governance. The platform was built with a focus on handling large datasets, securing sensitive information, and providing real-time insights through data visualization.
+* The project aimed to create a robust data management platform that streamlines data sourcing, storage, cleaning, transformation, and analysis. It emphasizes high standards of data security and governance while efficiently handling large datasets. The platform also provides real-time insights through advanced data visualization capabilities.
 ## Project Objective:
-* The objective of this project is to design and implement a secure AWS-based Data Analytics Platform (DAP) for processing and analyzing the City of Vancouver’s Animal Control Lost and Found inventory data. The platform ensures data protection, efficient processing, and the provision of actionable insights to assist city officials in better managing animal-related cases.
+* In this analysis, I have chosen to perform both the descriptive and the predictive analysis using the “Animal Inventory -Lost and Found” dataset from the City of Vancouver which is available in the open data. Self-explanatory In the descriptive analysis, we are working on the percentage of count where from the Total count of Animals noted we obtain Matched count in the year 2024.
 * Designing & Implementing DAP.
 ## Methodology:
 * The process of DAP designing and implementation is as follows.
-1. Data Analytical Question Formulation
-2. Data Discovery
-3. Storage Design
-4. Data Preparation
-5. Data Injection
-6. Data Pipeline Design
-7. Data Cleaning
-8. Data Structuring
-9. Data Pipeline Implementation
-10. Data Analysis
-11. Data Visualization
-12. Data Publishing
+1. Data Ingestion
+2. Data Profiling
+3. Data Cleaning
+4. Data Pipeline Design
+   
 
-## Tools and Technologies:
+## 
+Tools and Technologies:
 - AWS S3: For secure data storage and versioning.
 - AWS KMS: To encrypt and protect data.
 - AWS Glue: For building the data pipeline and automating ETL processes.
@@ -50,21 +44,21 @@ ___
 ___
 # [AWS-Project 2](https://pkarthik-ops.github.io/AWS-Project-2/)
 # Project Description: Data Protection, Governance, and Monitoring
-* This project involves setting up a comprehensive data analytics platform using AWS services to manage the City of Vancouver’s animal control data. 
+* This project involves setting up a comprehensive data analytics platform using AWS services to manage  to give a better protection on data monitoring and enriching the City of Vancouver’s animal control data. 
 ## Project Title: AWS Data Analytic Platform for the City of Vancouver - Part 2
-* This project aims to design and implement a Data Analytics Platform (DAP) using Amazon Web Services (AWS) to Data Protection, Governance, and Monitoring
+* This project aims to design and implement a Data Analytics Platform (DAP) using Amazon Web Services (AWS) to Data Enriching, Data Protection, Governance, and Monitoring
 ## Project Objective:
 * Designing & Implementing DAP.
 ## Methodology:
-* The process of providing Data Protection, Governance, and Monitoring for DAP designed as follows.
-1. Data Protection
-2. Data Governance
-3. Data Monitoring
-
+* The process of providing Data Enriching, Data Protection, Governance, and Monitoring for DAP designed as follows.
+1. Data Enriching
+2. Data Protection
+3. Data Governance
+4. Data Monitoring
 ___
 ## Insights and Findings
-- Identified trends in lost and found animals over the years, aiding in more effective resource allocation.
-- Ensured secure and compliant storage of sensitive data.
-- Provided real-time monitoring capabilities to proactively manage costs and system performance.
+- The platform enhances raw animal data by incorporating attributes from internal and external sources, improving its value for analysis in various sectors.
+- Lost and found animal information is secured through encryption, replication, and AWS Key Management Service (KMS), ensuring sensitive data remains protected.
+- A pipeline using AWS Glue and S3 processes the animal dataset, improving data quality, integrity, and relevance through filtering and transformation.
 ## Conclusion
-* This project demonstrates how AWS services can be used to build a secure, scalable, and efficient Data Analytics Platform for municipal data management. The setup facilitated better decision-making for the City of Vancouver by providing real-time insights into the animal control inventory, ensuring high standards of data security and governance.
+* The analysis of the lost and found animal dataset from the City of Vancouver highlights the effectiveness of the AWS Data Analytics Platform in tracking animal recovery efforts. Key findings include a percentage calculation of matched animals for 2023, revealing trends in lost and found cases. The platform's robust data processing capabilities, including data cleaning and ETL pipeline design, facilitate accurate insights into animal control inventory management.
