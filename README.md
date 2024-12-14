@@ -23,6 +23,8 @@ ___
 2. Data Profiling
 3. Data Cleaning
 4. Data Pipeline Design
+5. Exploratory Analysis
+6. DAP Cost Estimation
    
 
 ## 
