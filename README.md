@@ -9,7 +9,7 @@ Due Date: 13th December 2024 <br>
 </p>
 
 ___
-# [AWS-1 Project 1](https://pkarthik-ops.github.io/AWS-Project-1/)
+# [AWS Project 1](https://pkarthik-ops.github.io/AWS-Project-1/)
 # Project Description: Implementation and Analysis of Animal Control Data
 * This project involves setting up a comprehensive data analytics platform using AWS services to the rate of animals found Matched in the year 2023 and add an Average for count of Matched animals feature additionally to support your analysis. 
 ## Project Title: AWS Data Analytic Platform for the City of Vancouver - Part 1
@@ -42,7 +42,7 @@ Tools and Technologies:
 - Documentation covering all architectural decisions, security measures, and monitoring strategies.
 
 ___
-# [AWS-Project 2](https://pkarthik-ops.github.io/AWS-Project-2/)
+# [AWS Project 2](https://pkarthik-ops.github.io/AWS-Project-2/)
 # Project Description: Data Protection, Governance, and Monitoring
 * This project involves setting up a comprehensive data analytics platform using AWS services to manage  to give a better protection on data monitoring and enriching the City of Vancouver’s animal control data. 
 ## Project Title: AWS Data Analytic Platform for the City of Vancouver - Part 2
