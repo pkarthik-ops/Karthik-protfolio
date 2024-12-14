@@ -2,7 +2,7 @@
 <p align="center">
 Karthik Painam [2236721], <br>
 University Canada West, <br>
-BUSI 653, <br>
+BUSI 653: Cloud Computing Technologies, <br>
 Section 06, <br>
 Instructor: Prof. Mahmood Mortazavi Dehkordi, <br>
 Due Date: 13th December 2024 <br>
